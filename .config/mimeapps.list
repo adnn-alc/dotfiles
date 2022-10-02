@@ -1,0 +1,34 @@
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+image/jpeg=mirage.desktop
+image/png=mirage.desktop
+image/webp=mirage.desktop
+image/gif=mirage.desktop
+x-scheme-handler/mailto=google-chrome.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-XMPSO1.desktop
+
+[Added Associations]
+application/x-shellscript=code-oss.desktop;
+x-scheme-handler/http=exo-web-browser.desktop;
+x-scheme-handler/https=exo-web-browser.desktop;
+text/x-csrc=code-oss.desktop;
+image/png=feh.desktop;mirage.desktop;
+text/x-chdr=code-oss.desktop;
+text/x-makefile=code-oss.desktop;
+application/octet-stream=arduino.desktop;code-oss.desktop;
+application/xml=code-oss.desktop;
+image/jpeg=mirage.desktop;
+image/gif=mirage.desktop;
+image/x-xcursor=code-oss.desktop;
+image/x-canon-cr2=mirage.desktop;nitrogen.desktop;feh.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=code-oss.desktop;
+image/webp=mirage.desktop;
+text/html=code-oss.desktop;
+application/x-mswinurl=google-chrome.desktop;
+application/x-pkcs7-certificates=code-oss.desktop;
+video/x-matroska=vlc.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-XMPSO1.desktop;
