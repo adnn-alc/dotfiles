@@ -3,7 +3,7 @@
 </p>
 
 # Preview - bspwm
-![Preview](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/busyDesktop.png)
+![Preview](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/readme_pics/busyDesktop.png)
 
 # Details
 
@@ -38,19 +38,19 @@
 
 # Screenshots
 
-### Clean desktop - [Wallpaper](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/wallpaper.png)
-![Desktop-Preview](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/emptyDesktop.png)
+### Clean desktop - [Wallpaper](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/readme_pics/wallpaper.png)
+![Desktop-Preview](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/readme_pics/emptyDesktop.png)
 
 ### Busy desktops
-![Desktop-Preview2](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/busyDesktop.png)
-![Desktop-Preview3](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/busyDesktop2.png)
+![Desktop-Preview2](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/readme_pics/busyDesktop.png)
+![Desktop-Preview3](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/readme_pics/busyDesktop2.png)
 
 ### Rofi
 <p align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/rofiPower.png" />
+  <img width="70%" src="https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/readme_pics/rofiPower.png" />
 </p>
 
-![rofiLauncher](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/rofiLauncher.png)
+![rofiLauncher](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/readme_pics/rofiLauncher.png)
 
-### Lock screen - [Image](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/lockImage.jpg)
-![Lock-Screen](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/lockScreen.png)
+### Lock screen - [Image](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/readme_pics/lockImage.jpg)
+![Lock-Screen](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/readme_pics/lockScreen.png)
